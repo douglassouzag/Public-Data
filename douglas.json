@@ -1,0 +1,134 @@
+{
+    "apps": [
+        {
+          "name": "Ta moscando",
+          "price": "GRATUITO",
+          "logo": "ta_moscando_logo.webp",
+          "platforms": [
+            {
+              "name": "android",
+              "icon": "mdi-android",
+              "link": "https://play.google.com/store/apps/details?id=appinventor.ai_appktrab.ta_moscando&hl=pt_BR"
+            }
+          ],
+          "description":
+            "As doenças transmitidas por mosquitos aedes aegypti são as que mais crescem no mundo. Nos últimos 50 anos, sua incidência aumentou 30 vezes. Saiba quais são os pontos que já tiveram casos de dengue próximo a você e previna-se!",
+          "technologies": [
+            {
+              "name": "App Inventor",
+              "icon": "mdi-package-variant",
+              "link": ""
+            },
+            {
+              "name": "Firebase",
+              "icon": "mdi-firebase",
+              "link": ""
+            }
+          ],
+          "code": {
+            "name": "github",
+            "icon": "mdi-github",
+            "link": ""
+          }
+        },
+        {
+          "name": "Visiona Web Gis",
+          "price": "EM BREVE",
+          "logo": "visiona-logo.png",
+          "platforms": [
+            {
+              "name": "web",
+              "icon": "mdi-web",
+              "link": "https://gitlab.com/douglas.souzag/visiona"
+            }
+          ],
+          "description":
+            "Projeto integrador do curso de Análise e Desenvolvimento de Sistemas da FATEC de São José dos Campos. Web GIS para demarcar e processar talhões via satelite usando IA para classificação de áreas.",
+          "technologies": [
+            {
+              "name": "VueJS",
+              "icon": "mdi-vuejs",
+              "link": ""
+            },
+            {
+              "name": "Vuetify",
+              "icon": "mdi-vuetify",
+              "link": ""
+            },
+            {
+              "name": "Python",
+              "icon": "mdi-language-python",
+              "link": ""
+            },
+            {
+              "name": "Node",
+              "icon": "mdi-nodejs",
+              "link": ""
+            }
+          ],
+          "code": {
+            "name": "gitlab",
+            "icon": "mdi-gitlab",
+            "link": "https://gitlab.com/douglas.souzag/visiona"
+          }
+        },
+        {
+          "name": "CRUD Mercadorias",
+          "price": "OPEN SOURCE",
+          "logo": "crud-logo.webp",
+          "platforms": [
+            {
+              "name": "web",
+              "icon": "mdi-web",
+              "link": "https://gitlab.com/douglas.souzag/controle-de-mercadorias"
+            }
+          ],
+          "description":
+            "Sistema web para compra de mercadorias com controle de estoque atrelado",
+          "technologies": [
+            {
+              "name": "Java",
+              "icon": "mdi-language-java",
+              "link": ""
+            }
+          ],
+          "code": {
+            "name": "gitlab",
+            "icon": "mdi-gitlab",
+            "link": "https://gitlab.com/douglas.souzag/controle-de-mercadorias"
+          }
+        }
+      ],
+    "contactLinks": [
+        {
+            "name": "Email",
+            "value": "douglas.souzag@hotmail.com",
+            "link": "douglas.souzag@hotmail.com",
+            "icon": "mdi-email"
+        },
+        {
+            "name": "Whatsapp",
+            "value": "+55 12 98827-7872",
+            "link": "",
+            "icon": "mdi-whatsapp"
+        },
+        {
+            "name": "LinkedIn",
+            "value": "Douglas de Souza Gonçalves",
+            "link": "https://www.linkedin.com/in/douglas-de-souza-gon%C3%A7alves-a296a214b/",
+            "icon": "mdi-linkedin"
+        },
+        {
+            "name": "Github",
+            "value": "douglassouzag",
+            "link": "https://github.com/douglassouzag",
+            "icon": "mdi-github"
+        },
+        {
+            "name": "Gitlab",
+            "value": "douglas.souzag",
+            "link": "https://gitlab.com/douglas.souzag",
+            "icon": "mdi-gitlab"
+        }
+    ]
+}
